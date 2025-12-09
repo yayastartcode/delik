@@ -1,6 +1,6 @@
 function FloatingWhatsApp() {
   const handleClick = () => {
-    window.open("https://wa.me/6281334477994", "_blank");
+    window.open("https://wa.me/62882005371570", "_blank");
   };
 
   return (

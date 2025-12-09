@@ -7,22 +7,12 @@ function StrukturOrganisasiSection() {
             Struktur Organisasi
           </h2>
 
-          <div className="space-y-8">
-            <div className="bg-gray-50 rounded-lg p-4 overflow-hidden">
-              <img
-                src="/images/dpp.png"
-                alt="Struktur Organisasi Bagian Atas"
-                className="w-full h-auto object-contain"
-              />
-            </div>
-
-            <div className="bg-gray-50 rounded-lg p-4 overflow-hidden">
-              <img
-                src="/images/dpc.jpg"
-                alt="Struktur Organisasi Bagian Bawah"
-                className="w-full h-auto object-contain"
-              />
-            </div>
+          <div className="bg-gray-50 rounded-lg p-4 overflow-hidden shadow-lg">
+            <img
+              src="/images/struktur.jpg"
+              alt="Struktur Organisasi ORBAKUM DELIK"
+              className="w-full h-auto object-contain"
+            />
           </div>
         </div>
       </div>

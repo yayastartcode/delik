@@ -14,10 +14,10 @@ function App() {
     <div className="min-h-screen">
       <Header />
       <Hero />
+      <LegalitasSection />
       <AboutSection />
       <ServicesSection />
       <StrukturOrganisasiSection />
-      <LegalitasSection />
       <InfoSection />
       <ContactSection />
       <Footer />

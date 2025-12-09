@@ -1,6 +1,9 @@
 function Hero() {
   return (
-    <section id="home" className="bg-gradient-to-r from-blue-900 via-blue-800 to-blue-700 py-20">
+    <section
+      id="home"
+      className="bg-gradient-to-r from-blue-900 via-blue-800 to-blue-700 py-20"
+    >
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="text-white space-y-6">
@@ -9,7 +12,7 @@ function Hero() {
             </h1>
 
             <div className="text-3xl font-semibold text-yellow-300">
-              1000+ Klien Terlayani !
+              Banyak Klien Terlayani !
             </div>
 
             <div className="space-y-4 text-lg">
@@ -50,7 +53,7 @@ function Hero() {
 
             <div className="pt-4">
               <a
-                href="https://wa.me/6281334477994"
+                href="https://wa.me/62882005371570"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-bold py-4 px-8 rounded-lg transition transform hover:scale-105 shadow-lg"

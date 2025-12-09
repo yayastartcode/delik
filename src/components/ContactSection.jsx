@@ -68,7 +68,7 @@ function ContactSection() {
               </div>
               <h3 className="text-xl font-bold text-blue-900 mb-3">WhatsApp</h3>
               <a
-                href="https://wa.me/6281334477994"
+                href="https://wa.me/62882005371570"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-green-600 hover:text-green-700 font-semibold text-lg"
