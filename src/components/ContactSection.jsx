@@ -73,7 +73,7 @@ function ContactSection() {
                 rel="noopener noreferrer"
                 className="text-green-600 hover:text-green-700 font-semibold text-lg"
               >
-                +62 81334477994
+                +62 62882005371570
               </a>
             </div>
 
