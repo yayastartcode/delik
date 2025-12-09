@@ -1,0 +1,10 @@
+# robots.txt for ORBAKUM DELIK
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Disallow specific paths (if any)
+# Disallow: /admin/
+# Disallow: /private/

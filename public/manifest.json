@@ -1,0 +1,26 @@
+{
+  "name": "ORBAKUM DELIK - Organisasi Bantuan Hukum Delapan Lintang Keadilan",
+  "short_name": "ORBAKUM DELIK",
+  "description": "Organisasi bantuan hukum terpercaya yang melayani masyarakat dalam bidang bantuan hukum, kemanusiaan, sosial, dan investigasi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/lgdelik.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/lgdelik.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "legal", "services"],
+  "lang": "id-ID"
+}
